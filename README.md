@@ -1,4 +1,4 @@
-# Windows Cleanup Utility
+# Windows Simple Cleanup Script
 
 A batch script to selectively free up disk space on Windows 10/11.
 
